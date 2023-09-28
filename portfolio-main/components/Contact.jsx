@@ -55,7 +55,7 @@ const Contact = () => {
                       <FaGithub />
                     </div>
                   </Link>
-                  <a href={`tel:${7692810574}`}>
+                  <a href={`tel:${8871715787}`}>
                     <div className="rounded-full shadow-lg shadow-gray-600 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
                       <AiFillPhone />
                     </div>
