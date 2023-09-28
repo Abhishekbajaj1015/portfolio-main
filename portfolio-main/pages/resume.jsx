@@ -20,7 +20,7 @@ const resume = () => {
         <div className="bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center dark:text-black">
           <h2 className="text-center ">Abhishek Bajaj</h2>
           <div className="flex">
-            <a href={`tel:${7692810574}`} target="_blank" rel="noreferrer">
+            <a href={`tel:${8871715787}`} target="_blank" rel="noreferrer">
               <AiFillPhone size={20} style={{ marginRight: "1rem" }} />
             </a>
             <a
