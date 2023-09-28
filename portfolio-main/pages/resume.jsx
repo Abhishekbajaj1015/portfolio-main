@@ -145,7 +145,7 @@ const resume = () => {
           </p>
           <span>
           Graduated in Class XII with 83.4%
-          MODEL HIGHER SECONDARY SCHOOL (2016 - 2020)
+          MODEL HIGHER SECONDARY SCHOOL (2016)
           </span>
         </div>
         
@@ -154,7 +154,7 @@ const resume = () => {
         <div>
           <p>
             <span className="font-bold">Name</span>
-            <span className="px-12"></span>Arish khan
+            <span className="px-12"></span>Abhishek Bajaj
           </p>
        
           <p>
