@@ -12,7 +12,7 @@ const property = () => {
         <title>Abhishek | Git App</title>
         <meta
           name="description"
-          content="I’m a web developer specializing in building (and occasionally designing) exceptional digital experiences."
+          content="I’m Data Analyst, I’ve harnessed the power of data to drive informed decision-making."
         />
         <link rel="icon" href="/assets/logo4.png" />
       </Head>
@@ -31,24 +31,7 @@ const property = () => {
           </div>
         </div>
 
-        <div className="max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8">
-          <div className="col-span-4">
-            <p>Project</p>
-            <h2>Overview</h2>
-            <p>
-              This app was built using React Js , Bootstrap, Css, Javascript.
-              This is a Github users factching app using firebase authentication
-              and also using github rest api ,in this app user will be
-              authenticated with firebase authentication and route to search
-              page where user can search for github users.
-            </p>
-            <a
-              href="https://github.com/Aarish-khan13111/Reactjs23/tree/main/ten-firebase-auth-app"
-              target="_blank"
-              rel="noreferrer">
-              <button className="px-8 py-2 mt-4 mr-8">Code</button>
-            </a>
-          </div>
+
           <div className="col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl py-4">
             <div className="p-2">
               <p className="text-center font-bold pb-2">Technologies</p>
